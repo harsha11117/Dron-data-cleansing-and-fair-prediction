@@ -10,3 +10,5 @@ Data Anomalies can be classified at a high level into three categories:
 3. **Coverage Anomalies**:
 
 packages used for this project are:
+
+![alt text](https://github.com/harsha111117/Drone-data-cleansing-and-fair-prediction/blob/master/packages.jpg?raw=true
