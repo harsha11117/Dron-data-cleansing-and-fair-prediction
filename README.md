@@ -11,4 +11,5 @@ Data Anomalies can be classified at a high level into three categories:
 
 packages used for this project are:
 
-![alt text](https://github.com/harsha111117/Drone-data-cleansing-and-fair-prediction/blob/master/packages.jpg?raw=true)
+![alt Packages](https://user-images.githubusercontent.com/57734773/89722688-f069b900-da2f-11ea-9754-4f151492b883.jpg?raw=true)
+
